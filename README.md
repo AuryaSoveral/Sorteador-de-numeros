@@ -4,7 +4,7 @@ Projeto de sorteador de números aleatórios desenvolvido com HTML, CSS e JavaSc
 
 O usuário informa um número inicial e um número final, e o sistema realiza um sorteio dentro desse intervalo.
 
-## Tecnologias utilizadas
+## Tecnologias 
 
 - HTML5
 - CSS3
